@@ -1,0 +1,6 @@
+
+testAddNote=true
+testFindAllByStatus=true
+testFindAll=true
+testFindById=true
+testDeleteNote=true
